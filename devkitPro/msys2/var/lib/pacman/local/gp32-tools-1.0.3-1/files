@@ -1,0 +1,14 @@
+%FILES%
+opt/
+opt/devkitpro/
+opt/devkitpro/licenses/
+opt/devkitpro/licenses/gp32-tools/
+opt/devkitpro/licenses/gp32-tools/COPYING
+opt/devkitpro/tools/
+opt/devkitpro/tools/bin/
+opt/devkitpro/tools/bin/b2fxec.exe
+opt/devkitpro/tools/bin/gpd.exe
+opt/devkitpro/tools/bin/unfxe.exe
+opt/devkitpro/tools/bin/zda_compressor.exe
+opt/devkitpro/tools/bin/zda_tester.exe
+

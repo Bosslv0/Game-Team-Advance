@@ -1,0 +1,15 @@
+%FILES%
+opt/
+opt/devkitpro/
+opt/devkitpro/licenses/
+opt/devkitpro/licenses/gba-tools/
+opt/devkitpro/licenses/gba-tools/COPYING
+opt/devkitpro/tools/
+opt/devkitpro/tools/bin/
+opt/devkitpro/tools/bin/gbafix.exe
+opt/devkitpro/tools/bin/gbalzss.exe
+opt/devkitpro/tools/bin/gbfs.exe
+opt/devkitpro/tools/bin/insgbfs.exe
+opt/devkitpro/tools/bin/lsgbfs.exe
+opt/devkitpro/tools/bin/ungbfs.exe
+
